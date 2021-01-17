@@ -1,0 +1,11 @@
+ol {padding-left: 20px;}
+
+ol li {padding: 5px;color:#000;}
+
+ol li:nth-child(even){background: #dfdfdf;}
+
+.strike{text-decoration: line-through;}
+
+li:hover{
+  cursor: pointer;
+}
